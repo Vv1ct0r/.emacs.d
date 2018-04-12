@@ -1,6 +1,6 @@
 Emacs Simple Configuration
 ===============================
-![dracula](https://draculatheme.com/assets/img/icons/spider.png)
+![dracula](https://raw.githubusercontent.com/Vv1ct0r/.emacs.d/master/Screenshot.png)
 
 Installation
 ------------
